@@ -12,3 +12,8 @@ def pedir_cantidad_notas():
 
 cantidad = pedir_cantidad_notas()
 print(cantidad)
+
+
+
+# add codigo oleivac
+print(cantidad)
